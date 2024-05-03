@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 movies.csv
 ratings.csv
-archive
+original_data
+experiment_small_data
